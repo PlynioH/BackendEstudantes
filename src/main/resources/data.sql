@@ -1,0 +1,3 @@
+INSERT INTO tb_estudante (nome, sexo, idade, sangue, cpf, endereco) VALUES ('Matheus', 'Masculino', 24, 'A-', '111.737.660-57', 'Rua pokemon 123');
+INSERT INTO tb_estudante (nome, sexo, idade, sangue, cpf, endereco) VALUES ('Nathalia', 'Feminino', 30, 'B+', '881.813.190-79', 'Rua digimon 70');
+INSERT INTO tb_estudante (nome, sexo, idade, sangue, cpf, endereco) VALUES ('Felipe', 'Masculino', 80, 'AB-', '754.338.640-22', 'Rua nenhuma 8080');
